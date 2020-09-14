@@ -1,0 +1,10 @@
+a=int(100)
+b=int(50)
+result=a+b
+print(a,"+",b,"=",result)
+result=a-b
+print(a,"-",b,"=",result)
+result=a*b
+print(a,"*",b,"=",result)
+result=a/b
+print(a,"/",b,"=",result)
